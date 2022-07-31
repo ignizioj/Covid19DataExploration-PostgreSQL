@@ -16,5 +16,5 @@
 
 ![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/TableauQueries.png)
 
-![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Covid-19%20Dashboard%20.png)
+![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Dashboardscreenshot.png)
 ##### Feel free to browse any files found in the repository.  The only contributer in this project was myself.  Thanks!
