@@ -1,4 +1,4 @@
-### Covid-19 Dataset Cleaned and Explored in PostgreSQL, Dashboard in Tableau using Custom Queries.
+# Covid-19 Dataset Cleaned and Explored in PostgreSQL, Dashboard in Tableau using Custom Queries.
 #### This project was built from exploratory questions about how many individuals have died from covid as defined, to determine the total death count by continent(interesting to see), to determine the current death percentage and how it has adjusted with vaccinations rates, and finally to look at percent of population infected by country.  I have selected only a few countries to examine for clarity including Canada, China, France, India, Italy, Mexico, Spain, UK, and the United States.  I chose these to look at as they were major countries in the news for deaths and infections.
 
 
