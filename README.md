@@ -12,8 +12,9 @@
 ![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Exploration2.png)
 ![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Exploration3.png)
 
-##### Below are screenshots of the custom SQL queries used in Tableau. 
+##### Below is a screenshot of the custom SQL queries used in Tableau as well as the Dashboard built with this data. Please explore!  I have also included a link to the interactive dashboard hosted by Tableau Public. View here: https://public.tableau.com/app/profile/joel.ignizio/viz/CovidDashboard2022_16579249127750/Dashboard1
 
 ![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/TableauQueries.png)
 
-##### In addtion, I have included the PostgreSQL script in this repo for reference or information. Feel free to browse any files found in the repository.  The only contributer in this project was myself.  Thanks!
+![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Covid-19%20Dashboard%20.png)
+##### Feel free to browse any files found in the repository.  The only contributer in this project was myself.  Thanks!
