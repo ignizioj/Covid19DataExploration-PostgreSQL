@@ -8,10 +8,12 @@
 ##### Below are screenshots of the exploratory SQL queries. 
 
 
-![ScreenShot]()
+![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Exploration%20.png)
+![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Exploration2.png)
+![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/Exploration3.png)
 
 ##### Below are screenshots of the custom SQL queries used in Tableau. 
 
-![ScreenShot]()
+![ScreenShot](https://github.com/ignizioj/Covid19DataExploration-PostgreSQL/blob/main/TableauQueries.png)
 
 ##### In addtion, I have included the PostgreSQL script in this repo for reference or information. Feel free to browse any files found in the repository.  The only contributer in this project was myself.  Thanks!
